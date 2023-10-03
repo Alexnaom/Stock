@@ -113,7 +113,6 @@
             Name = "StockMain";
             Text = "StockMain";
             WindowState = FormWindowState.Maximized;
-            Load += StockMain_FormClosing;
             menuStrip.ResumeLayout(false);
             menuStrip.PerformLayout();
             statusStrip.ResumeLayout(false);
